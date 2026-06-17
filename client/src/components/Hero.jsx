@@ -10,8 +10,8 @@ function Hero() {
       </p>
 
       <div className="buttons">
-        <button>Start Learning</button>
-        <button>Mock Interview</button>
+        <button>Start Coding</button>
+<button>Take Interview</button>
       </div>
     </section>
   );
